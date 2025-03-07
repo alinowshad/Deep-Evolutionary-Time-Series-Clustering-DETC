@@ -1,1 +1,1 @@
-# Deep-Evolutionary-Time-Series-Clustering-DETC-
+# Deep Evolutionary Time Series Clustering (DETC)
